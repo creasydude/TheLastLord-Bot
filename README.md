@@ -1,0 +1,1 @@
+Simple bot , just use "payload.json.example" , and rename it to "payload.json" , then enter the payload . you can get it from browser devtools -> network tab
